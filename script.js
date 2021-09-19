@@ -61,13 +61,7 @@ $(function() {
         for(i=0; i<stringVal.length; i++){
             console.log(i + " " + stringVal[i]);
         }
-        if (StringVal =13){
-            document.getElementById('namelength').innerHTML="unlucky name";
-        }
-        else{
-            document.getElementById('namelength').innerHTML="lucky name";
-
-        }
+        
         }
 
 
